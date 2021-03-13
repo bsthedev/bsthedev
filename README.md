@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bsthedev
 - 👀 I’m interested in programming and software development 
 - 🌱 I’m currently learning SQL
-- 📫 You can reach me on bsthehound@gmail.com
+- 📫 You can mail me on bsthehound@gmail.com
+- 🐦 My twitter handle - @bsthehound1990
 
 <!---
 bsthedev/bsthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
