@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsthedev
 - 👀 I’m interested in programming/software development and i am always moving forward by learning new skills
-- 🌱 I’m currently learning SQL
-- 📫 You can mail me on bsthehound@gmail.com
+- 🌱 I’m currently learning Oracle SQL
+- 📫 You can mail me on bhupeshsharmajan11@gmail.com
 - 🐦 My twitter handle - @bsthehound1990
 
 <!---
