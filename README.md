@@ -4,7 +4,7 @@
 - 🐦 My twitter handle - @bsthehound1990
 - 💼 My LinkedIn Profile - linkedin.com/in/bhupesh-sharma-9778a2209
 
-#3776AB
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Python.svg" />
 
 <!---
 bsthedev/bsthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
