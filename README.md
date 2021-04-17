@@ -15,7 +15,7 @@
 </details>
    <summary>:zap: Github Stats</summary>
    
-   <img align="left" alt="My Github Stats" src="https://github-readme-stats-jet-kappa.vercel.app/api?username=bsthedev&show_icons=true&hide_border=true" />
+   <img align="left" alt="My Github Stats" src="https://github-readme-stats-jet-kappa.vercel.app/api?username=bsthedev&show_icons=true&hide_border=true&theme=tokyonight" />
    
 </details>
 
