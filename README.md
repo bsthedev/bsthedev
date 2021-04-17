@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bsthedev
 - 👀 I’m interested in programming/software development and i am always moving forward by learning new skills.
 
-**Connect with me :
+**Connect with me :**
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 - 📫 You can email me on bhupeshsharmajan11@gmail.com
