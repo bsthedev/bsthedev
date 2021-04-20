@@ -10,7 +10,9 @@
 - 🐦 My twitter handle - @bsthehound1990    
 
   ![Twitter Follow](https://img.shields.io/twitter/follow/bsthehound1990?color=1DA152&logo=Twitter&style=social)
-- 💼 My LinkedIn Profile - https://linkedin.com/in/bhupesh-sharma-9778a2209
+- ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://linkedin.com/in/bhupesh-sharma-9778a2209
+
+  ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
