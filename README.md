@@ -6,7 +6,7 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> &nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />  &nbsp;  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 - 📫 You can email me on bhupeshsharmajan11@gmail.com
 - 🐦 My twitter handle - @bsthehound1990
-- 💼 My LinkedIn Profile - https://www.linkedin.com/in/bhupesh-sharma-9778a2209
+- 💼 My LinkedIn Profile - https://linkedin.com/in/bhupesh-sharma-9778a2209
 
 
 
