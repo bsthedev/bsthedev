@@ -4,7 +4,7 @@
 **Connect with me :**
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> &nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />  &nbsp;  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
-- 📫 You can email me on bhupeshsharmajan11@gmail.com
+- 📫 Mail me on bhupeshsharmajan11@gmail.com
 
    ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 🐦 My twitter handle - @bsthehound1990    
