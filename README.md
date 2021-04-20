@@ -5,7 +5,7 @@
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" /> &nbsp; <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />  &nbsp;  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 - 📫 You can email me on bhupeshsharmajan11@gmail.com
-- 🐦 My twitter handle - @bsthehound1990     <img src="https://img.shields.io/twitter/follow/bsthehound1990?color=1DA152&logo=Twitter&style=for-the-badge"/>
+- 🐦 My twitter handle - @bsthehound1990     [Twitter Follow](https://img.shields.io/twitter/follow/bsthehound1990?color=1DA152&logo=Twitter&style=for-the-badge)
 - 💼 My LinkedIn Profile - https://linkedin.com/in/bhupesh-sharma-9778a2209
 
 
