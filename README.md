@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @bsthedev
-- 👀 I’m interested in programming/software development and i am always moving forward by learning new skills.
+- 👀 I’m interested in programming/software development and i am always moving forward by learning new skills and techniques.
+      
+     
 
 **Connect with me :**
 
